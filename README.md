@@ -3,7 +3,7 @@
 Template que sirve para publicar un paquete con un módulo llamado `adoutils`.
 Este tiene una dependencia de un paquete llamado
 
-# Crea un archivo pyproject.toml
+## Crea un archivo pyproject.toml
 
 En la raíz de este repositorio debes crear un archivo `pyproject.toml`
 
