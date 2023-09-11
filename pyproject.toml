@@ -21,5 +21,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/sovieeet/ado-utils-python-package-"
-"Bug Tracker" = "https://github.com/sovieeet/ado-utils-python-package-/issues"
+"Homepage" = "https://github.com/sovieeet/ado-utils-python-package"
+"Bug Tracker" = "https://github.com/sovieeet/ado-utils-python-package/issues"
