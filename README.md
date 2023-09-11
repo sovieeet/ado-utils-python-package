@@ -39,7 +39,7 @@ dependencies = [
 ]
 ```
 
-# Genera una distribución
+## Genera una distribución
 
 Para crear la distribución en GitHub deberás publicar una carpeta `dist` con la librería lista. 
 Para lograr esto debemos correr el comando:
