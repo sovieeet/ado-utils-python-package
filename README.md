@@ -38,3 +38,14 @@ dependencies = [
    <AGREGA ACÁ EL CONTENIDO DE TU ARCHIVO REQUIREMENTS>
 ]
 ```
+
+# Genera una distribución
+
+Para crear la distribución en GitHub deberás publicar una carpeta `dist` con la librería lista. 
+Para lograr esto debemos correr el comando:
+
+```
+python -m build
+```
+
+Esto creará la carpeta de distribución, y con esto ya podemos publicar el paquete y consumirlo desde otro repositorio.
